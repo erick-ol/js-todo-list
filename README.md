@@ -1,5 +1,5 @@
 ## To-Do List
-This was a project developed in the [Software Development Course at Trybe](https://www.betrybe.com/formacao-desenvolvimento-web) as a challenge while I was learning how to manipulate DOM with JavaScript. On the application the user is able to create a task, select it, finish it and erase it.
+This was a project developed in the [Software Development Course at Trybe](https://www.betrybe.com/formacao-desenvolvimento-web) as a challenge while I was learning how to manipulate DOM with JavaScript. On the application the user is able to create a task, select it, finish it and erase it. Made on ```June 2nd, 2021```
 
 ### How to download and run the project code
 
